@@ -17,14 +17,24 @@
 - **ClothingShop** — Android client (Jetpack Compose) + Node/Express API with PostgreSQL and JWT auth.
 
 ### Tech I enjoy
+
+**Languages**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**Frameworks & Engines**
+![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?logo=java&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+
+**Platforms & Databases**
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+
 
 ### Highlights
 <p align="center">
