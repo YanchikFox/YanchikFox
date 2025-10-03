@@ -12,9 +12,9 @@
 ---
 
 ### What I build
-- **ClinicManager (JavaFX, SQLite)** — desktop suite for a modern clinic: onboarding, scheduling, visit management, and notifications.
-- **RustLikeGame (Unity 6 + Zenject)** — survival sandbox prototype with voxel terrain, modular building, FSM-driven construction, and inventory.
-- **ClothingShop** — Android client (Jetpack Compose) + Node/Express API with PostgreSQL and JWT auth.
+- [**ClinicManager (JavaFX, SQLite)**](https://github.com/YanchikFox/ClinicManager) — desktop suite for a modern clinic: onboarding, scheduling, visit management, and notifications.
+- [**RustLikeGame (Unity 6 + Zenject)**](https://github.com/YanchikFox/RustLikeGame) — survival sandbox prototype with voxel terrain, modular building, FSM-driven construction, and inventory.
+- [**ClothingShop**](https://github.com/YanchikFox/ClothingShop-Android) — Android client (Jetpack Compose) + Node/Express [API](https://github.com/YanchikFox/ClothingShop-API) with PostgreSQL and JWT auth.
 
 ### Tech I enjoy
 
